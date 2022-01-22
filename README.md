@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![我的 GitHub 數據](https://github-readme-stats.vercel.app/api?username=GitHubyujou0)]()
 <!--
 **yujou0/yujou0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
