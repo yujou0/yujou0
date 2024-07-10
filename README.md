@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 
 - 🔭 I’m Mia. A software engineer .<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -9,12 +9,6 @@
 ![yujou0's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujou0&theme=ayu-mirage&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=yujou0&theme=ayu-mirage&show_icons=true&locale=en&layout=compact)
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yujou0&theme=ayu-mirage)
-
-
-[![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=yujou0&title=Star,Follower,Commit,Issue&theme=chartreuse-dark)](https://github.com/anjoy8)   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yujou0&langs_count=8&hide=&exclude_repo=Shopsnweb-xf)](https://github-readme-stats.vercel.app)    
-
-
 
 
 ### :earth_asia:	Languages and Tools:
